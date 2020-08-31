@@ -3,9 +3,10 @@
 // 1- Finding an element on the page and saving a reference to it
 //  Older: getElementById, getElementsByTagName, getElementsByClassName
 //  Newer: querySelector, querySelectorAll
+
+// examples of targeting indiv. elements (we get the 1st that matches, or null)
 const header = document.querySelector('header')
 const logoTitle = document.querySelector('#logoTitle')
-console.log(logoTitle)
 
 const h2s = document.querySelectorAll('h2')
 console.log(h2s)
