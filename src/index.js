@@ -49,8 +49,10 @@ setInterval(() => {
   header.classList.toggle('sky')
 }, 1000)
 //  by manipulating inline styles on the element
-link2FirstCard.style.fontSize = '0.5em'
+link2FirstCard.style.fontSize = '1.5em'
 link2FirstCard.style.fontWeight = 'bold'
+
+document.querySelectorAll()
 
 // 5- Creating new elements and appending them
 
