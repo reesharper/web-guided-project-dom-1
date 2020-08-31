@@ -3,7 +3,8 @@
 // 1- Finding an element on the page and saving a reference to it
 //  Older: getElementById, getElementsByTagName, getElementsByClassName
 //  Newer: querySelector, querySelectorAll
-const header = 
+const header = document.querySelector('header')
+console.log(header)
 const logoTitle = null
 const firstCard = null
 const imageFirstCard = null
