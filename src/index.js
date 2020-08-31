@@ -44,7 +44,10 @@ console.log(header.getAttribute('id'))
 // 4- Changing the style
 //  by changing the class names on the element
 header.classList.add('sky')
-// header.classList.remove('sky')
+header.classList.remove('sky')
+setInterval(() => {
+  header
+}, 1000)
 //  by manipulating inline styles on the element
 
 // 5- Creating new elements and appending them
