@@ -56,6 +56,9 @@ link2FirstCard.style.fontWeight = 'bold'
 const allLinks = document.querySelectorAll('a')
 const realArrayOfLinks = Array.from(allLinks)
 
+console.log(allLinks)
+console.log(realArrayOfLinks)
+
 const arr = []
 
 allLinks.forEach(link => {
