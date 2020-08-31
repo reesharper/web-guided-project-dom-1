@@ -21,7 +21,6 @@ const link2FirstCard = link1FirstCard.nextElementSibling
 
 // 2- Changing an element's text content
 //  textContent, innerText (subtle differences)
-console.log(logoTitle.textContent)
 logoTitle.textContent = 'Lambda Dog'
 titleFirstCard.textContent = 'Good Dog'
 subtitleFirstCard.textContent = 'Obviously'
