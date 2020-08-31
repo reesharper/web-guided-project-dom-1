@@ -30,6 +30,7 @@ link2FirstCard.textContent = 'Dog Ipsum'
 // 3- Accessing and changing element attributes
 //  with dot notation
 header.className = 'foo bar baz sky'
+header.id = 'theHeader'
 //  setAttribute, getAttribute
 
 // 4- Changing the style
