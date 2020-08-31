@@ -24,6 +24,7 @@ const link2FirstCard = link1FirstCard.nextElementSibling
 console.log(logoTitle.textContent)
 logoTitle.textContent = 'Lambda Dog'
 titleFirstCard.textContent = 'Good Dog'
+subtitleFirstCard.textContent = 'Obviously'
 
 // 3- Accessing and changing element attributes
 //  with dot notation
