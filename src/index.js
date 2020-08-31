@@ -60,7 +60,7 @@ allLinks.forEach(link => {
 })
 
 for (let i = 0; i < allLinks.length; i++) {
-  
+  allLinks[i].style.color = 'orange'
 }
 
 // allLinks.style.fontSize = '4em' // BAD
