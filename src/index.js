@@ -4,7 +4,7 @@
 //  Older: getElementById, getElementsByTagName, getElementsByClassName
 //  Newer: querySelector, querySelectorAll
 const header = document.querySelector('header')
-console.log(header)
+console.log('this is the header --->>> ', header)
 const logoTitle = null
 const firstCard = null
 const imageFirstCard = null
