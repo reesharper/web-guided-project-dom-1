@@ -53,7 +53,8 @@ link2FirstCard.style.fontSize = '1.5em'
 link2FirstCard.style.fontWeight = 'bold'
 
 const allLinks = document.querySelectorAll('a')
-allLinks.style.fontSize = '2em'
+console.log(allLinks)
+allLinks.style.fontSize = '4em'
 
 // 5- Creating new elements and appending them
 
