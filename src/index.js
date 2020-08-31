@@ -55,6 +55,13 @@ link2FirstCard.style.fontWeight = 'bold'
 const allLinks = document.querySelectorAll('a')
 console.log(allLinks)
 
+allLinks.forEach(link => {
+  link.style.fontSize = '2em'
+})
+
+for (let i = 0; i < allLinks.length; i++) {
+  
+}
 
 // allLinks.style.fontSize = '4em' // BAD
 
