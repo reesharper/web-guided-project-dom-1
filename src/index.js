@@ -58,6 +58,7 @@ const allLinksAlt = document.getElementsByTagName('a')
 const realArrayOfLinks = Array.from(allLinks)
 
 console.log(allLinks)
+console.log(allLinksAlt)
 console.log(realArrayOfLinks)
 
 const arr = []
