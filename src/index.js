@@ -12,10 +12,10 @@ const logoTitle = document.querySelector('#logoTitle')
 const h3s = document.querySelectorAll('h3')
 
 const firstCard = document.querySelector('.card');
-const imageFirstCard = document.querySelector('card-img-top');
-const titleFirstCard = document.querySelector('card-title');
-const subtitleFirstCard = document.querySelector('card-subtitle');
-const textFirstCard = document.querySelector('card-text');
+const imageFirstCard = document.querySelector('.card-img-top');
+const titleFirstCard = document.querySelector('.card-title');
+const subtitleFirstCard = document.querySelector('.card-subtitle');
+const textFirstCard = document.querySelector('.card-text');
 const link1FirstCard = document.querySelector('card-link');
 const link2FirstCard = document.querySelector('card-link');
 
