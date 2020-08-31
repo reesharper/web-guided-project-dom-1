@@ -25,7 +25,8 @@ console.log(logoTitle.textContent)
 logoTitle.textContent = 'Lambda Dog'
 titleFirstCard.textContent = 'Good Dog'
 subtitleFirstCard.textContent = 'Obviously'
-textFirstCard.innerText = 'Doggo ipsum very taste wow blep vvv maximum borkdrive puggo, you are doing me a frighten h*ck. I am bekom fat pupperino puggo, such treat. Noodle horse heck fat boi smol borking doggo with a long snoot for pats, corgo shibe. '
+textFirstCard.innerText = 'Doggo ipsum very taste wow blep vvv maximum borkdrive puggo, you are doing me a frighten h*ck. I am bekom fat pupperino puggo, such treat. Noodle horse heck fat boi smol borking doggo with a long snoot for pats, corgo shibe.'
+link2FirstCard.textContent = 'Dog Ipsum'
 
 // 3- Accessing and changing element attributes
 //  with dot notation
