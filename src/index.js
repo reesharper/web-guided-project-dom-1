@@ -54,6 +54,7 @@ link2FirstCard.style.fontWeight = 'bold'
 
 // COLLECTIONS OF ELEMENTS - you had better loop!!!!!!
 const allLinks = document.querySelectorAll('a')
+const allLinksAlt = document.getElementsByTagName('a')
 const realArrayOfLinks = Array.from(allLinks)
 
 console.log(allLinks)
