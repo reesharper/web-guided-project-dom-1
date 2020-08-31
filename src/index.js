@@ -29,7 +29,7 @@ link2FirstCard.textContent = 'Dog Ipsum'
 
 // 3- Accessing and changing element attributes
 //  with dot notation
-
+header.className = 'logo-container foo'
 //  setAttribute, getAttribute
 
 // 4- Changing the style
