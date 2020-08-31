@@ -18,6 +18,7 @@ const subtitleFirstCard = firstCard.querySelector('.card-subtitle')
 const textFirstCard = firstCard.querySelector('.card-text')
 const link1FirstCard = textFirstCard.nextElementSibling
 const link2FirstCard = link1FirstCard.nextElementSibling
+console.log(firstCard)
 
 // 2- Changing an element's text content
 //  textContent, innerText (subtle differences)
