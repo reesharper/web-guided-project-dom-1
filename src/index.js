@@ -11,7 +11,7 @@ const logoTitle = document.querySelector('#logoTitle')
 // example of targeting several elements (we get a collection which might be empty)
 const h3s = document.querySelectorAll('h3')
 
-const firstCard = document.querySelector('card');
+const firstCard = document.querySelector('.card');
 const imageFirstCard = document.querySelector('card-img-top');
 const titleFirstCard = document.querySelector('card-title');
 const subtitleFirstCard = document.querySelector('card-subtitle');
