@@ -52,7 +52,8 @@ setInterval(() => {
 link2FirstCard.style.fontSize = '1.5em'
 link2FirstCard.style.fontWeight = 'bold'
 
-document.querySelectorAll()
+const allLinks = document.querySelectorAll('a')
+allLinks.style.fontSize = '2em'
 
 // 5- Creating new elements and appending them
 
