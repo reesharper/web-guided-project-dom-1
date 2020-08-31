@@ -29,6 +29,7 @@ link2FirstCard.textContent = 'Dog Ipsum'
 
 // 3- Accessing and changing element attributes
 //  with dot notation
+
 //  setAttribute, getAttribute
 
 // 4- Changing the style
