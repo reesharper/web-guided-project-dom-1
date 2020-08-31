@@ -52,9 +52,11 @@ setInterval(() => {
 link2FirstCard.style.fontSize = '1.5em'
 link2FirstCard.style.fontWeight = 'bold'
 
-// 
+// COLLECTIONS OF ELEMENTS - you had better loop!!!!!!
 const allLinks = document.querySelectorAll('a')
 const realArrayOfLinks = Array.from(allLinks)
+
+const arr = []
 
 allLinks.forEach(link => {
   link.style.fontSize = '2em'
