@@ -4,7 +4,8 @@
 //  Older: getElementById, getElementsByTagName, getElementsByClassName
 //  Newer: querySelector, querySelectorAll
 const header = document.querySelector('header')
-const logoTitle = document.querySelector('#logoTitle')
+const logoTitle = document.querySelector('#logoTitlekjshfjksahdfjkasdhdfkjasdhflkasjhgljkghdaslkjhglkdjsh')
+console.log(logoTitle)
 
 const firstCard = null
 const imageFirstCard = null
