@@ -33,7 +33,7 @@ header.className = 'foo bar baz sky'
 header.id = 'theHeader'
 imageFirstCard.src = 'https://images.unsplash.com/photo-1534628526458-a8de087b1123?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80'
 //  setAttribute, getAttribute
-header.setAttribute('class')
+header.setAttribute('class', 'lady gaga')
 
 // 4- Changing the style
 //  by changing the class names on the element
