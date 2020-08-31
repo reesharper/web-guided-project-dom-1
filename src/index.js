@@ -61,8 +61,6 @@ console.log(allLinks)
 console.log(allLinksAlt)
 console.log(realArrayOfLinks)
 
-const arr = []
-
 allLinks.forEach(link => {
   link.style.fontSize = '2em'
 })
