@@ -12,12 +12,12 @@ const logoTitle = document.querySelector('#logoTitle')
 const h3s = document.querySelectorAll('h3')
 
 const firstCard = document.querySelector('.card:nth-of-type(1)')
-const imageFirstCard = document.querySelector('.card-img-top')
-const titleFirstCard = document.querySelector('.card-title')
-const subtitleFirstCard = document.querySelector('.card-subtitle')
-const textFirstCard = document.querySelector('.card-text')
-const link1FirstCard = document.querySelector('card-link')
-const link2FirstCard = document.querySelector('card-link')
+const imageFirstCard = document.querySelector('.card:nth-of-type(1) .card-img-top')
+const titleFirstCard = document.querySelector('.card:nth-of-type(1) .card-title')
+const subtitleFirstCard = document.querySelector('.card:nth-of-type(1) .card-subtitle')
+const textFirstCard = document.querySelector('.card:nth-of-type(1) .card-text')
+const link1FirstCard = document.querySelector('.card:nth-of-type(1) card-link')
+const link2FirstCard = document.querySelector('.card:nth-of-type(1) card-link')
 
 // 2- Changing an element's text content
 //  textContent, innerText (subtle differences)
