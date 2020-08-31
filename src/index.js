@@ -9,8 +9,8 @@ const header = document.querySelector('header')
 const logoTitle = document.querySelector('#logoTitle')
 
 // example of targeting several elements (we get a collection which might be empty)
-const h2s = document.querySelectorAll('h2')
-console.log(h2s)
+const h3s = document.querySelectorAll('h3')
+console.log(h3s)
 
 const firstCard = null
 const imageFirstCard = null
