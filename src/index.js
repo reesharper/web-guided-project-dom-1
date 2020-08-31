@@ -52,6 +52,7 @@ setInterval(() => {
 link2FirstCard.style.fontSize = '1.5em'
 link2FirstCard.style.fontWeight = 'bold'
 
+// 
 const allLinks = document.querySelectorAll('a')
 const realArrayOfLinks = Array.from(allLinks)
 
